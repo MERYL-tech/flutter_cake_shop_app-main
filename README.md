@@ -1,16 +1,14 @@
-# flutter_cake_shop_app
+#flutter_cake_shop_app
 
-A new Flutter project.
 
-## Getting Started
+<img src="assets/localhost_51101_(iPhone 12 Pro) (1).png"
+  width="350"/>
+<img src="assets/localhost_51101_(iPhone 12 Pro) (2).png"
+  width="350"/>
+<img src="assets/localhost_51101_(iPhone 12 Pro) (3).png"
+  width="350"/>
+<img src="assets/localhost_51101_(iPhone 12 Pro).png"
+  width="350"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+  
